@@ -1,0 +1,3 @@
+123;Caua;Superior;4;Técnico;Industria;
+;;Superior;1;Administração;Administração;
+1;Cauã;Superior;3;Informática;Matutino;
